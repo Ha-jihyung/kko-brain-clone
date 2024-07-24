@@ -228,6 +228,7 @@
   align-items: flex-end;
   width: 300px;
   height: 320px;
+  margin-bottom: 25px;
   background: url("../images/p1.png") no-repeat center;
   background-size: cover;
   border-radius: 20px;
